@@ -23,4 +23,6 @@ Me gusta leerlos así (me gusta lo humano-leible):
         asdadadsadsasdsadasdadssadasdadsadas
         
         
-   La inspiración de este proyecto es hacer mas eficiente una parte de mi trabajo. espero y alguien le sirva :)
+   La inspiración de este proyecto es hacer mas eficiente una parte de mi trabajo.
+   
+   Espero y alguien le sirva :)
